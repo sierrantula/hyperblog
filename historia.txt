@@ -3,3 +3,5 @@ para probar git y sus actualizaciones
 en el curso de git
 
 Probamos nuevos cambios
+
+probamos el error
